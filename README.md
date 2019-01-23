@@ -1,2 +1,2 @@
-# Tugas-Lab-Kom
+# Tugas-Labkom
 tugas Lab-Kom
